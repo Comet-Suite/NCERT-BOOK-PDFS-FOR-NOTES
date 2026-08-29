@@ -21,6 +21,21 @@
 
 ---
 
+## 📁 REPO FILE INDEX (study one file at a time)
+
+| File | Contents | Marks |
+|---|---|---|
+| `CBSE_History_Theme8_Peasants_Zamindars_and_the_State.md` | Theme 8 — complete chapter notes | 15M |
+| `CBSE_History_Theme5_Through_the_Eyes_of_Travellers.md` | Theme 5 — complete chapter notes | 11M |
+| `CBSE_History_Theme6_Bhakti_Sufi_Traditions.md` | Theme 6 — complete chapter notes | 10M |
+| `CBSE_History_Theme7_An_Imperial_Capital_Vijayanagara.md` | Theme 7 — complete chapter notes | 6M |
+| `CBSE_History_Map_Work_All_Themes.md` | 🗺️ ALL maps (Sufi centres, Vijayanagara, Mughal) with location clues & drills | 5M |
+| `CBSE_Class12_History_Half_Yearly_Notes.md` | ⭐ THIS FILE — everything combined | 47M |
+
+**Study order:** Theme 8 → 5 → 6 → 7 → Map drill → 48-hour plan (last section of this file).
+
+---
+
 ## 📝 CBSE EXAM PATTERN (2025-26 scheme, continues in 2026-27 — schools mirror this)
 
 | Section | Questions | Type | Word Limit | Marks |
