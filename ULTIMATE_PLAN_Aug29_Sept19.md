@@ -5,6 +5,7 @@
 ---
 
 ## ✅ CONFIRMED SEQUENCE (from your date sheet)
+
 | Date | Paper | Prep days before it |
 |---|---|---|
 | Sept 9 (Wed) | **English** | Aug 29–Sept 8 |
@@ -17,6 +18,7 @@
 ---
 
 ## ⚔️ PHASE 1 — FIRST PASS (Aug 29 → Sept 2) | 5–6 hrs/day
+
 | Day | Subject | Mission |
 |---|---|---|
 | **Aug 29 (today)** | **HISTORY — all 4 themes** | Per `DAY1_Aug29_AllThemes_Plan.md`: 8 skeletons + 8 extracts 2× + map #1 + date card. **You are here — GO!** |
@@ -26,6 +28,7 @@
 | **Sept 2** | **ENGLISH** | Formats day: **Notice + Invitation/Reply + Letter to Editor + Job Application + Report/Article — one of each, from memory, timed.** Literature: all Flamingo/Vistas chapters + 5 poems — 3 value-point quotes each. |
 
 ## 🔁 PHASE 2 — SECOND PASS (Sept 3–6)
+
 | Day | Task |
 |---|---|
 | Sept 3 | **HISTORY touch #2:** all 8 skeletons written FULL (timed 12 min each) + map drill #2 + NCERT source-box skim |
@@ -34,6 +37,7 @@
 | Sept 6 | **ENGLISH MOCK: full 3-hr paper** under timer + analyse + fix formats |
 
 ## 🎯 PHASE 3 — EXAM WAR (Sept 7–19)
+
 | Day | Task |
 |---|---|
 | Sept 7 | (Maths paper IF yours — else) **Buffer day:** weakest-topic repair + light English lit + full rest by evening |
