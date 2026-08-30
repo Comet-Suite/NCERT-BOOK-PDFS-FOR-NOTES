@@ -386,6 +386,7 @@
 ### 7.1 Life in the Chishti khanqah
 - **📜 Source 7 — Shaikh Nizamuddin's hospice (c. 14th century):** at **GHIYASPUR, on the banks of the YAMUNA**, outskirts of **Delhi**; comprised **several small rooms + a BIG HALL (JAMA'AT KHANA)** where **inmates & visitors lived and prayed**; inmates = **family members of the Shaikh, attendants, disciples**; Shaikh lived in a **small room ON THE ROOF**, meeting visitors **morning & evening**; **veranda** around the courtyard; **boundary wall**; during **Mongol-invasion fears, people flocked to the khanqah for REFUGE**; **open kitchen (LANGAR)** run on **FUTUH (unasked-for charity)**; visitors from **all faiths**; inmates **cooked & served food**; thoughts/discussions recorded.
 - **📦 Table — MAJOR TEACHERS OF THE CHISHTI SILSILA:**
+
 | Sufi Teacher | Year of Death | Dargah Location |
 |---|---|---|
 | Shaikh Muinuddin Sijzi | 1235 | **Ajmer** (Rajasthan) |
@@ -775,6 +776,7 @@
 ---
 
 ## 📜 TIMELINE — LANDMARKS OF THE MUGHAL EMPIRE
+
 | Year | Event |
 |---|---|
 | **1526** | **BABUR defeats IBRAHIM LODI at PANIPAT** → first Mughal emperor |
@@ -795,6 +797,7 @@
 > Section E: locate & label **4 items + 1 test item** (approx.). Practise on a **blank political map of India** twice a week. 15 minutes of drill = 5 marks.
 
 ### 1. Major Sufi Centres (Theme 6) — 🔴 learn first
+
 | Site | Location clue |
 |---|---|
 | **Ajmer** (dargah of **Shaikh Muinuddin Chishti**) | Rajasthan |
@@ -805,6 +808,7 @@
 | **Bidar** (Khalza? — late Chishti/Deccan centre) | Karnataka (Deccan) |
 
 ### 2. Vijayanagara & Medieval South (Theme 7)
+
 | Site | Location clue |
 |---|---|
 | **Vijayanagara / Hampi** | bank of **Tungabhadra**, Karnataka |
@@ -814,6 +818,7 @@
 | **Mysore, Kolar, Tirunelveli** | Karnataka / Tamil Nadu |
 
 ### 3. Mughal Territories & Cities (Theme 8)
+
 | Site | Location clue |
 |---|---|
 | **Delhi, Agra** | imperial capitals (Yamuna) |
