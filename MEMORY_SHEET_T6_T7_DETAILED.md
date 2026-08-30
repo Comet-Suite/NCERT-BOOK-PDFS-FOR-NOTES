@@ -70,6 +70,7 @@
 - **Protest angle:** some historians = **protest against Buddhism & Jainism** (dominant then, backed by merchant/artisan communities + occasional royal patronage); later the traditions **integrated into Brahmanical order**
 
 ### (c) The two great anthologies (by 10th century)
+
 | Anthology | Composers | Key facts |
 |---|---|---|
 | **NALAYIRA DIVYAPRABANDHAM** | the **12 ALVARS** | "Four Thousand Sacred Compositions" • described as the **TAMIL VEDA** |
@@ -251,6 +252,7 @@
 **Why most influential:** earliest silsila in India + **adapted successfully to the local environment** + **austere, simple lifestyle** + maintained **distance from worldly power**.
 
 ### (a) The 5 Chishti teachers — "**M-K-F-N-C**"
+
 | # | Teacher | Died | Dargah |
 |---|---|---|---|
 | 1 | **Shaikh MUINUDDIN SIJZI** (Chishti) | **1235** | **AJMER** (Rajasthan) 🔴map |
@@ -337,6 +339,7 @@
 - **God = FORMLESS:** **ALAKH** (the unseen) & **NIRANJAN**; **one deity, many names**.
 - **Style: ULTABANSI** = "upside-down sayings" (paradoxes/riddles); poems in many **languages & dialects**, forms incl. **sakhis, pads, ramainis, shabdas**; transmitted **ORALLY**; compilations made **LONG AFTER his death**.
 - **📜 His verses survive in 3 traditions — "B-G-A":**
+
 | Compilation | Custodian | Region |
 |---|---|---|
 | **KABIJ BIJAK** | **KABIRPANTH** | **Varanasi & elsewhere in UP** |
@@ -388,6 +391,7 @@
 ---
 
 ## 9️⃣ SUFI TEXT GENRES — "**T-M-M-T**" (source-historiography favourite)
+
 | Genre | Literal | What it is | Star example |
 |---|---|---|---|
 | **T**reatises/manuals | — | sufi thought & practices | **KASHF-UL-MAHJUB** — **Ali bin Usman HUJWIRI (d. c. 1071)** — shows influence of traditions OUTSIDE the subcontinent |
@@ -396,6 +400,7 @@
 | **T**azkiras | "to mention & memorialise" | **biographical accounts of saints** | **SIYAR-UL-AULIYA — MIR KHWURD KIRMANI** (14th c. — **FIRST sufi tazkira written in India**, Chishti-focused) • most famous: **AKHBAR-UL-AKHYAR — Abdul Haqq Muhaddis Dehlavi** (16th c.) |
 
 ### 🔟 MASTER TIMELINE (skim-date anchors)
+
 | Period | Teachers |
 |---|---|
 | c. 500–800 | **Appar, Sambandar, Sundaramurti** (TN) |
@@ -438,6 +443,7 @@
 - **Sources for Vijayanagara's history:**
   1. **INSCRIPTIONS** of the kings **and their NAYAKAS** — recording **donations to temples + important events**
   2. **TRAVELLERS' ACCOUNTS:**
+
 | 15th century | 16th century |
 |---|---|
 | **NICOLO DE CONTI** — Italian **trader** | **DUARTE BARBOSA** — Portugal |
@@ -470,6 +476,7 @@
 ---
 
 ## 3️⃣ THE APOGEE AND DECLINE — dynasties "**S-S-T-A**" ("Students Should Take Action")
+
 | Dynasty | Key facts |
 |---|---|
 | **SANGAMA** | Founded by brothers **HARIHARA I & BUKKA I** • rule till **1485** |
@@ -577,6 +584,7 @@
 - These sanctifying myths made the site ideal → the city = "**city of victory**".
 
 ### (b) The signature architecture terms (guaranteed MCQ)
+
 | Term | Meaning |
 |---|---|
 | **GOPURAM** | tall **ROYAL GATEWAY** of the temple |
@@ -610,6 +618,7 @@
 ---
 
 ## 8️⃣ T7 TIMELINE (5 dates that cover all MCQs)
+
 | Year | Event |
 |---|---|
 | **1336** | Foundation — **Harihara & Bukka** (Sangama) |
