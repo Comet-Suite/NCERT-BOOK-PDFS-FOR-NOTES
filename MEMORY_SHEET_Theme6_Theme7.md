@@ -24,6 +24,7 @@
 - **Alvars = Vishnu** ("immersed") • **Nayanars = Shiva** • travelled + **sang TAMIL hymns** → shrines
 - Castes: **artisan, cultivator, outcaste**; protest against **Buddhism & Jainism**; later merged into Brahmanical order
 - **Anthologies:**
+
 | Text | Who | Fact |
 |---|---|---|
 | **Nalayira Divyaprabandham** | 12 Alvars | "Four Thousand Compositions" = **TAMIL VEDA**, by 10th c. |
@@ -76,6 +77,7 @@
 
 ## 7️⃣ THE CHISHTIS — the exam's favourite section ⭐⭐
 ### (a) The 5 Shaikhs — "**M-K-F-N-C**"
+
 | Chain | Died | Dargah |
 |---|---|---|
 | **M**uinuddin Sijzi (Chishti) | **1235** | **AJMER** 🔴map |
@@ -131,6 +133,7 @@
 - **Bhagavati dharma** (Gita + Bhagavata Purana) • **NAM KIRTAN** • **SATRA** (monastery) • **NAAM GHAR** (prayer hall)
 
 ## 9️⃣ SUFI TEXT GENRES — "**T-M-M-T**"
+
 | Genre | Meaning | Star example |
 |---|---|---|
 | **T**reatises/manuals | sufi thought | **Kashf-ul-Mahjub — Hujwiri (d. c. 1071)** |
@@ -139,8 +142,10 @@
 | **T**azkiras | biographies | **Siyar-ul-Auliya — Mir Khwurd Kirmani** (FIRST in India, Chishti) • most famous: **Akhbar-ul-Akhyar — Abdul Haqq Muhaddis Dehlavi** |
 
 ## 🔟 MASTER TIMELINE (chant rhythm: "5-8, 8-9, 10-11, 11-12, 12-13, 13-14, 14-15, 15-16, 16-17")
-| c. 500–800 | Appar, Sambandar, Sundaramurti (TN) |
+
+| Period | Teachers |
 |---|---|
+| c. 500–800 | Appar, Sambandar, Sundaramurti (TN) |
 | c. 800–900 | Nammalvar, Andal, Tondaradippodi (TN) |
 | c. 1000–1100 | **Al Hujwiri** (Punjab), Ramanujacharya (TN) |
 | c. 1100–1200 | **Basavanna** (Karnataka) |
@@ -169,6 +174,7 @@
 - **Colin Mackenzie** (b. **1754**) → **1800: FIRST survey map of Hampi ruins** → later **FIRST SURVEYOR GENERAL OF India**
 - Sources: **local informants + oral traditions** • **1856: Alexander Greenlaw** — first **photographs** (calotypes) → epigraphists → archaeologists
 - Historical sources: **inscriptions** (kings + nayakas: donations, events) + **travellers**:
+
 | 15th century | 16th century |
 |---|---|
 | **C**onti (Italian trader) • **R**azzaq (**Persian AMBASSADOR**) • **N**ikitin (Russian merchant) | **B**arbosa • **P**aes • **N**uniz (ALL PORTUGUESE) |
@@ -183,6 +189,7 @@
 👉 chant: "**Elephant-OriSSa, horse-Sultan, man-Raya**"
 
 ## 3️⃣ DYNASTIES & DECLINE — "**S-S-T-A**" (Students Should Take Action)
+
 | Dynasty | Note |
 |---|---|
 | **Sangama** | founders **HARIHARA + BUKKA**, **1336**, till **1485** |
@@ -244,6 +251,7 @@ Nayakas = military chiefs (**Telugu/Kannada**), held forts + troops; some conque
 - Nayakas later built **most spectacular gopurams** (e.g., Madurai)
 
 ### 🔑 THE 3 TERMS (guaranteed MCQ)
+
 | Term | Meaning |
 |---|---|
 | **GOPURAM** | tall **royal gateway** of temple |
@@ -253,8 +261,10 @@ Nayakas = military chiefs (**Telugu/Kannada**), held forts + troops; some conque
 **BLURT:** Virupaksha =? → Shiva, 9th-10th c. origin, KDR accession hall. Vitthala =? → Vishnu-from-Maharashtra, chariot shrine. Chariot streets for? → Merchants' shops.
 
 ## 8️⃣ TIMELINE (5 dates = 5 marks worth of MCQs)
-| **1336** | Foundation — Harihara & Bukka (Sangama) |
+
+| Year | Event |
 |---|---|
+| **1336** | Foundation — Harihara & Bukka (Sangama) |
 | **1509–29** | Krishnadeva Raya (Tuluva) — golden age |
 | **1565** | Talikota — defeat, sack, abandonment |
 | post-1565 | Aravidu at Penukonda; nayaka kingdoms |
