@@ -24,6 +24,7 @@
 ## 📅 THE MASTER TIMELINE (adjust subject slots once you send me your date sheet)
 
 ### PHASE 1 — BANK THE BIG ONE (Aug 29–31, 3 days)
+
 | Day | Hours | Task |
 |---|---|---|
 | **Aug 29 (today)** | 4–5h | **Theme 8 (15M)** — full notes → both extracts → write 2 predicted 8-marker skeletons from memory. NCERT: read the 2 Ain boxes once, highlight. ✅ Evening self-test: land classes + revenue methods + zamindar pillars. |
@@ -45,6 +46,7 @@
 - **Sept 5 or 6:** keep ONE evening for the subject with most marks but your least confidence.
 
 ### PHASE 3 — KILL SHOT REVISION (Sept 7–8, 2 days)
+
 | Slot | Task |
 |---|---|
 | Sept 7 AM | History full-speed re-read of README (90 min — it's built for this) + **map drill #2** |
